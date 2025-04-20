@@ -30,7 +30,7 @@ function Footer() {
                           <a href="https://github.com/sidd-pixel" class="hover:underline text-white">Siddhant Thakur</a>
                       </li>
                       <li>
-                          <a href="https://github.com/Siddesh755" class="hover:underline text-white">Siddeesh Navthale</a>
+                          <a href="https://github.com/Siddesh755" class="hover:underline text-white">Siddesh Navthale</a>
                       </li>
                       <li>
                           <a href="https://github.com/aryanmore33" class="hover:underline text-white">Aryan More</a>
